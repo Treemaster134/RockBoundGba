@@ -1,0 +1,1 @@
+start build/visualboyadvance-m.exe build/rockbound.gba
